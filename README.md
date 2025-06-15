@@ -10,3 +10,6 @@
 
 # 250602
 New Data Project 
+
+# 250615 
+GIS / QGIS 순으로 공부 방향을 잡음. 
