@@ -12,4 +12,5 @@
 New Data Project 
 
 # 250615 
+참고 : https://docs.qgis.org/3.40/ko/docs/gentle_gis_introduction/index.html
 GIS / QGIS 순으로 공부 방향을 잡음. 
